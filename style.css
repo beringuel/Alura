@@ -1,0 +1,22 @@
+body{
+    font-family: "Pacifico", cursive;
+    background: beige;
+    color: brown;
+    margin: 0px;
+    margin-bottom: 100px;
+}
+header{
+    color: beige;
+    border-bottom: 3px solid ;
+    font-size: 32px;
+}
+.chamada{
+    background: white;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
+}
